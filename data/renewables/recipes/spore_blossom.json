@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "XEX",
+    "KRK",
+    " K "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:big_dripleaf"
+    },
+    "E": {
+      "item": "minecraft:hanging_roots"
+    },
+    "K": {
+      "item": "minecraft:flowering_azalea"
+    },
+    "R": {
+      "item": "minecraft:sunflower"
+    }
+  },
+  "result": {
+    "item": "minecraft:spore_blossom"
+  }
+}

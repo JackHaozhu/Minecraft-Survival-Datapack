@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:deepslate"
+        },
+        {
+            "item": "minecraft:raw_iron"
+        },
+        {
+            "item": "minecraft:raw_iron"
+        },
+        {
+            "item": "minecraft:raw_iron"
+        }
+    ],
+    "result": {
+        "item": "minecraft:deepslate_iron_ore",
+        "count": 1
+    }
+}

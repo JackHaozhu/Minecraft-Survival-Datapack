@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:piglin_banner_pattern"
+        },
+        {
+            "tag": "minecraft:music_discs"
+        }
+    ],
+    "result": {
+        "item": "minecraft:music_disc_pigstep",
+        "count": 1
+    }
+}
