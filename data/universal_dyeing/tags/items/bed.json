@@ -1,4 +1,5 @@
 {
+	"replace":false,
     "values": [
         "minecraft:white_bed",
         "minecraft:orange_bed",
