@@ -1,30 +1,12 @@
 {
-    "type": "crafting_shapeless",
-    "result": {
-        "item": "minecraft:red_banner",
-        "count": 1
-    },
-    "group": "universal_dyeing_banner",
-    "ingredients": [
-        [
-                {"item": "minecraft:white_banner"},
-                {"item": "minecraft:orange_banner"},
-                {"item": "minecraft:magenta_banner"},
-                {"item": "minecraft:light_blue_banner"},
-                {"item": "minecraft:yellow_banner"},
-                {"item": "minecraft:lime_banner"},
-                {"item": "minecraft:pink_banner"},
-                {"item": "minecraft:gray_banner"},
-                {"item": "minecraft:light_gray_banner"},
-                {"item": "minecraft:cyan_banner"},
-                {"item": "minecraft:purple_banner"},
-                {"item": "minecraft:blue_banner"},
-                {"item": "minecraft:brown_banner"},
-                {"item": "minecraft:green_banner"},
-                {"item": "minecraft:red_banner"}
-        ],
-        {
-            "tag": "universal_dyeing:dyes/red_dye"
-        }
-    ]
+	"type": "crafting_shapeless",
+	"result": {
+		"item": "minecraft:red_banner",
+		"count": 1
+	},
+	"group": "universal_dyeing_banner",
+	"ingredients": [
+		{"tag": "universal_dyeing:banner"},
+		{"tag": "universal_dyeing:dyes/red_dye"}
+	]
 }
