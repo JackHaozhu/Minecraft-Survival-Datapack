@@ -87,11 +87,59 @@
 下界疣块/诡异疣块烧炼为下界岩</br>  
 ![notch_apple](https://github.com/JackHaozhu/image/blob/main/craftingdatapack/26.png)  
 加入了经典的附魔金苹果合成配方</br>  
-![piglin_banner_pattern](https://github.com/JackHaozhu/image/blob/main/craftingdatapack/27.png)
+![piglin_banner_pattern](https://github.com/JackHaozhu/image/blob/main/craftingdatapack/27.png)  
 猪鼻旗帜图案的复制</br>  
 ![pigstep](https://github.com/JackHaozhu/image/blob/main/craftingdatapack/28.gif)  
 用猪鼻旗帜图案将任意唱片灌录为Pigstep  
-_<del>你也可以浪费一个旗帜图案来将Pigstep灌录为Pigstep</del>_
+_<del>你也可以浪费一个旗帜图案来将Pigstep灌录为Pigstep</del>_</br>  
+![Otherside](https://github.com/JackHaozhu/image/blob/main/craftingdatapack/29.gif)  
+任意唱片+钻石+幽匿尖啸体/幽匿催发体/末影水晶=Otherside唱片  
+灵感来源于Otherside能被发现于古城、地牢与要塞）  
+_<del>同样的，你也可以浪费一些材料来将Otherside灌录为Otherside</del>_</br>  
+![raw_ore](https://github.com/JackHaozhu/image/blob/main/craftingdatapack/30.png)  
+粗矿的切石机配方（粗铜、粗金同理）</br>  
+![sponge](https://github.com/JackHaozhu/image/blob/main/craftingdatapack/31.png)  
+海绵（将干海带换为普通海带即可合成湿海绵）</br>  
+![spore_blossom](https://github.com/JackHaozhu/image/blob/main/craftingdatapack/32.png)  
+孢子花（再一次建筑党狂喜）</br>  
+![tuff](https://github.com/JackHaozhu/image/blob/main/craftingdatapack/33.png)  
+玄武岩可以切制成凝灰岩</br>  
+
+#### 新增：原矿合成
+主世界矿石的深板岩变种都是把合成表中的石头换为深板岩，**且都是无序合成**  
+![coal_ore](https://github.com/JackHaozhu/image/blob/main/craftingdatapack/34.png)  
+煤矿（时运三期望：2.2）</br>  
+![iron_ore](https://github.com/JackHaozhu/image/blob/main/craftingdatapack/35.png)  
+铁/金矿都是用粗矿合成（时运三期望：2.2）</br>  
+![diamond_ore](https://github.com/JackHaozhu/image/blob/main/craftingdatapack/36.png)  
+钻石矿（时运三期望：2.2）</br>  
+![redstone_ore](https://github.com/JackHaozhu/image/blob/main/craftingdatapack/38.jpg)  
+红石矿（时运三期望：6）</br>  
+![copper_ore](https://github.com/JackHaozhu/image/blob/main/craftingdatapack/37.png)  
+铜矿，因为其期望过高，合成表加入粗铜块（时运三期望：7.7）</br>  
+![lapis_ore](https://github.com/JackHaozhu/image/blob/main/craftingdatapack/39.png)  
+青金石矿（时运三期望：14.3）  
+<del>为什么你期望这么高啊</del></br>  
+![nether_gold_ore](https://github.com/JackHaozhu/image/blob/main/craftingdatapack/40.png)  
+下界金矿（时运三期望：8.8金粒）</br>  
+![nether_quartz_ore](https://github.com/JackHaozhu/image/blob/main/craftingdatapack/41.png)  
+石英矿（时运三期望：2.2）</br>  
+
+---
+### 染色（universal_dyeing）：  
+染色可以直接使用染料的原材料进行染色**（仙人掌等需要烧炼的不计入内）**  
+染过色的物品也可以直接重新染色  
+此处用玻璃板染红色做示例  
+![redyeing](https://github.com/JackHaozhu/image/blob/main/craftingdatapack/42.gif)  
+  
+水桶可以去除颜色 
+![undyeing](https://github.com/JackHaozhu/image/blob/main/craftingdatapack/43.gif)  
+**潜影盒染色和去色前一定一定一定要把东西拿出来！！！！！**[^数据包合成表]
+
+---
+如果有bug或者需要其他版本的数据包请在Issues内提出  
+或者在[我的B站账号](https://space.bilibili.com/319279623)私信我
+
 
 
 
