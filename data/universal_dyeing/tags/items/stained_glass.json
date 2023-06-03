@@ -1,7 +1,7 @@
 {
 	"replace":false,
     "values": [
-		"minecraft:glass"
+		"minecraft:glass",
         "minecraft:white_stained_glass",
         "minecraft:orange_stained_glass",
         "minecraft:magenta_stained_glass",
