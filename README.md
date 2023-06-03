@@ -131,8 +131,8 @@ _<del>同样的，你也可以浪费一些材料来将Otherside灌录为Othersid
 染过色的物品也可以直接重新染色  
 此处用玻璃板染红色做示例  
 ![redyeing](https://github.com/JackHaozhu/image/blob/main/craftingdatapack/42.gif)  
-  
-水桶可以去除颜色 
+
+水桶可以去除颜色  
 ![undyeing](https://github.com/JackHaozhu/image/blob/main/craftingdatapack/43.gif)  
 **潜影盒染色和去色前一定一定一定要把东西拿出来！！！！！**[^数据包合成表]
 
