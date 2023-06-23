@@ -13,7 +13,7 @@
 服务器：  
 把下载好的压缩包丢到服务器根目录\world\datapacks中  
 在控制台或者管理员在服务器中输入指令：  
-/datapack enable "file/CraftingDatapack-v2.0.zip"  
+/datapack enable "file/CraftingDatapack-vx.x.zip"  
   
   ---
 ## 简介
