@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:deepslate"
+        },
+        {
+            "item": "minecraft:raw_gold"
+        },
+        {
+            "item": "minecraft:raw_gold"
+        },
+        {
+            "item": "minecraft:raw_gold"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:deepslate_gold_ore"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+    "result": {
+        "count": 1,
+        "id": "minecraft:wet_sponge"
+    },
+    "pattern": [
+        "PRP",
+        "PIP",
+        "RSR"
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:kelp"
+        },
+        "P": {
+            "item": "minecraft:prismarine_shard"
+        },
+        "S": {
+            "item": "minecraft:sand"
+        },
+        "R": {
+            "item": "minecraft:slime_ball"
+        }
+    },
+    "group": "sponge"
+}

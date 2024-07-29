@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:stone"
+        },
+        {
+            "item": "minecraft:raw_copper"
+        },
+        {
+            "item": "minecraft:raw_copper"
+        },
+        {
+            "item": "minecraft:raw_copper_block"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:copper_ore"
+    }
+}

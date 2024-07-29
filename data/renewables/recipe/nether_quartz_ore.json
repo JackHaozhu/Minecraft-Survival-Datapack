@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:netherrack"
+        },
+        {
+            "item": "minecraft:quartz"
+        },
+        {
+            "item": "minecraft:quartz"
+        },
+        {
+            "item": "minecraft:quartz"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:nether_quartz_ore"
+    }
+}
