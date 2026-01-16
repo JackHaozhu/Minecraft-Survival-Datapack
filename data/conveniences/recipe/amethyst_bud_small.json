@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:amethyst_shard",
+    "result": {
+        "id": "minecraft:small_amethyst_bud",
+        "count": 1
+    }
+}

@@ -10,11 +10,7 @@
         "GGG"
     ],
     "key": {
-        "G": {
-            "item": "minecraft:gold_block"
-        },
-        "#": {
-            "item": "minecraft:apple"
-        }
+        "G": "minecraft:gold_block",
+        "#": "minecraft:apple"
     }
 }

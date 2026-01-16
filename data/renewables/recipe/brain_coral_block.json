@@ -5,9 +5,7 @@
         "##"
     ],
     "key": {
-        "#": {
-            "tag": "renewables:brain_coral"
-        }
+        "#": "#renewables:brain_coral"
     },
     "result": {
         "count": 1,

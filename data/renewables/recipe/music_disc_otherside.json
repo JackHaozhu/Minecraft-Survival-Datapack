@@ -1,15 +1,9 @@
 {
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
-        {
-            "tag": "minecraft:music_discs"
-        },
-        {
-            "tag": "renewables:can_make_otherside"
-        },
-        {
-            "item": "minecraft:diamond"
-        }
+        "#minecraft:music_discs",
+        "#renewables:can_make_otherside",
+        "minecraft:diamond"
     ],
     "result": {
         "count": 1,

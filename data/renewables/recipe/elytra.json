@@ -6,18 +6,10 @@
         "T T"
     ],
     "key": {
-        "R": {
-            "item": "minecraft:phantom_membrane"
-        },
-        "S": {
-            "item": "minecraft:elytra"
-        },
-        "Q": {
-            "item": "minecraft:end_crystal"
-        },
-        "T": {
-            "item": "minecraft:feather"
-        }
+        "R": "minecraft:phantom_membrane",
+        "S": "minecraft:elytra",
+        "Q": "minecraft:end_crystal",
+        "T": "minecraft:feather"
     },
     "result": {
         "count": 2,

@@ -1,18 +1,10 @@
 {
     "type": "crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:deepslate"
-        },
-        {
-            "item": "minecraft:diamond"
-        },
-        {
-            "item": "minecraft:diamond"
-        },
-        {
-            "item": "minecraft:diamond"
-        }
+        "minecraft:deepslate",
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:diamond"
     ],
     "result": {
         "count": 1,

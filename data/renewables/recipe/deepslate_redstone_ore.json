@@ -1,12 +1,8 @@
 {
     "type": "crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:deepslate"
-        },
-        {
-            "item": "minecraft:redstone_block"
-        }
+        "minecraft:deepslate",
+        "minecraft:redstone_block"
     ],
     "result": {
         "count": 1,

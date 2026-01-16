@@ -1,18 +1,10 @@
 {
     "type": "crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:deepslate"
-        },
-        {
-            "item": "minecraft:raw_gold"
-        },
-        {
-            "item": "minecraft:raw_gold"
-        },
-        {
-            "item": "minecraft:raw_gold"
-        }
+        "minecraft:deepslate",
+        "minecraft:raw_gold",
+        "minecraft:raw_gold",
+        "minecraft:raw_gold"
     ],
     "result": {
         "count": 1,

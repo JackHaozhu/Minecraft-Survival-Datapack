@@ -1,18 +1,10 @@
 {
     "type": "crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:stone"
-        },
-        {
-            "item": "minecraft:diamond"
-        },
-        {
-            "item": "minecraft:diamond"
-        },
-        {
-            "item": "minecraft:diamond"
-        }
+        "minecraft:stone",
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:diamond"
     ],
     "result": {
         "count": 1,

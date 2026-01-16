@@ -6,12 +6,8 @@
         "#_#"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:iron_ingot"
-        },
-        "_": {
-            "item": "minecraft:saddle"
-        }
+        "#": "minecraft:iron_ingot",
+        "_": "minecraft:saddle"
     },
     "result": {
         "id": "minecraft:iron_horse_armor"

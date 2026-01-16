@@ -1,18 +1,10 @@
 {
     "type": "crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:deepslate"
-        },
-        {
-            "item": "minecraft:coal"
-        },
-        {
-            "item": "minecraft:coal"
-        },
-        {
-            "item": "minecraft:coal"
-        }
+        "minecraft:deepslate",
+        "minecraft:coal",
+        "minecraft:coal",
+        "minecraft:coal"
     ],
     "result": {
         "count": 1,

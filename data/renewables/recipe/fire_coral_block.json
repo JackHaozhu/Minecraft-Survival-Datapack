@@ -5,9 +5,7 @@
         "##"
     ],
     "key": {
-        "#": {
-            "tag": "renewables:fire_coral"
-        }
+        "#": "#renewables:fire_coral"
     },
     "result": {
         "count": 1,

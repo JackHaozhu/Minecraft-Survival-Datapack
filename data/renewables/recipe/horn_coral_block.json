@@ -5,9 +5,7 @@
         "##"
     ],
     "key": {
-        "#": {
-            "tag": "renewables:horn_coral"
-        }
+        "#": "#renewables:horn_coral"
     },
     "result": {
         "count": 1,

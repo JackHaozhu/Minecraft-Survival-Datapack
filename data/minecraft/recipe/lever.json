@@ -2,12 +2,8 @@
     "type": "minecraft:crafting_shaped",
     "category": "redstone",
     "key": {
-        "#": {
-            "tag": "minecraft:all_stone"
-        },
-        "X": {
-            "item": "minecraft:stick"
-        }
+        "#": "#minecraft:all_stone",
+        "X": "minecraft:stick"
     },
     "pattern": [
         "X",

@@ -10,11 +10,7 @@
         "GGG"
     ],
     "key": {
-        "G": {
-            "item": "minecraft:gold_nugget"
-        },
-        "#": {
-            "item": "minecraft:blackstone"
-        }
+        "G": "minecraft:gold_nugget",
+        "#": "minecraft:blackstone"
     }
 }

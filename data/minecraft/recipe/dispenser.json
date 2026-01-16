@@ -2,15 +2,9 @@
     "type": "minecraft:crafting_shaped",
     "category": "redstone",
     "key": {
-        "#": {
-            "tag": "minecraft:all_stone"
-        },
-        "R": {
-            "item": "minecraft:redstone"
-        },
-        "X": {
-            "item": "minecraft:bow"
-        }
+        "#": "#minecraft:all_stone",
+        "R": "minecraft:redstone",
+        "X": "minecraft:bow"
     },
     "pattern": [
         "###",

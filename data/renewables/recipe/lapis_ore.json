@@ -1,15 +1,9 @@
 {
     "type": "crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:stone"
-        },
-        {
-            "item": "minecraft:lapis_block"
-        },
-        {
-            "item": "minecraft:lapis_block"
-        }
+        "minecraft:stone",
+        "minecraft:lapis_block",
+        "minecraft:lapis_block"
     ],
     "result": {
         "count": 1,

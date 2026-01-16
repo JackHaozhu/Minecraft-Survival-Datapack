@@ -2,16 +2,10 @@
     "type": "minecraft:crafting_shaped",
     "category": "redstone",
     "key": {
-        "#": {
-            "tag": "minecraft:all_stone"
+        "#": "#minecraft:all_stone",
+        "Q": "minecraft:quartz",
+        "R": "minecraft:redstone"
         },
-        "Q": {
-            "item": "minecraft:quartz"
-        },
-        "R": {
-            "item": "minecraft:redstone"
-        }
-    },
     "pattern": [
         "###",
         "RRQ",

@@ -5,9 +5,7 @@
         "##"
     ],
     "key": {
-        "#": {
-            "tag": "renewables:tube_coral"
-        }
+        "#": "#renewables:tube_coral"
     },
     "result": {
         "count": 1,

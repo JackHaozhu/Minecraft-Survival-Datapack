@@ -6,15 +6,9 @@
         "#N#"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:bone_block"
-        },
-        "N": {
-            "item": "minecraft:netherrack"
-        },
-        "C": {
-            "item": "minecraft:netherite_scrap"
-        }
+        "#": "minecraft:bone_block",
+        "N": "minecraft:netherrack",
+        "C": "minecraft:netherite_scrap"
     },
     "result": {
         "id": "minecraft:ancient_debris",

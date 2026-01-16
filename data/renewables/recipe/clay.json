@@ -1,33 +1,15 @@
 {
     "type": "crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:clay_ball"
-        },
-        {
-            "item": "minecraft:sand"
-        },
-        {
-            "item": "minecraft:sand"
-        },
-        {
-            "item": "minecraft:sand"
-        },
-        {
-            "item": "minecraft:sand"
-        },
-        {
-            "item": "minecraft:gravel"
-        },
-        {
-            "item": "minecraft:gravel"
-        },
-        {
-            "item": "minecraft:gravel"
-        },
-        {
-            "item": "minecraft:gravel"
-        }
+        "minecraft:clay_ball",
+        "minecraft:sand",
+        "minecraft:sand",
+        "minecraft:sand",
+        "minecraft:sand",
+        "minecraft:gravel",
+        "minecraft:gravel",
+        "minecraft:gravel",
+        "minecraft:gravel"
     ],
     "result": {
         "count": 8,

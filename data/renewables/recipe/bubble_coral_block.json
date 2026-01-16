@@ -5,9 +5,7 @@
         "##"
     ],
     "key": {
-        "#": {
-            "tag": "renewables:bubble_coral"
-        }
+        "#": "#renewables:bubble_coral"
     },
     "result": {
         "count": 1,

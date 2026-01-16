@@ -1,18 +1,10 @@
 {
     "type": "crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:stone"
-        },
-        {
-            "item": "minecraft:emerald"
-        },
-        {
-            "item": "minecraft:emerald"
-        },
-        {
-            "item": "minecraft:emerald"
-        }
+        "minecraft:stone",
+        "minecraft:emerald",
+        "minecraft:emerald",
+        "minecraft:emerald"
     ],
     "result": {
         "count": 1,

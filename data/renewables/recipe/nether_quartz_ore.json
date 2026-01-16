@@ -1,18 +1,10 @@
 {
     "type": "crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:netherrack"
-        },
-        {
-            "item": "minecraft:quartz"
-        },
-        {
-            "item": "minecraft:quartz"
-        },
-        {
-            "item": "minecraft:quartz"
-        }
+        "minecraft:netherrack",
+        "minecraft:quartz",
+        "minecraft:quartz",
+        "minecraft:quartz"
     ],
     "result": {
         "count": 1,

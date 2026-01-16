@@ -6,18 +6,10 @@
         " K "
     ],
     "key": {
-        "X": {
-            "item": "minecraft:big_dripleaf"
-        },
-        "E": {
-            "item": "minecraft:hanging_roots"
-        },
-        "K": {
-            "item": "minecraft:flowering_azalea"
-        },
-        "R": {
-            "item": "minecraft:sunflower"
-        }
+        "X": "minecraft:big_dripleaf",
+        "E": "minecraft:hanging_roots",
+        "K": "minecraft:flowering_azalea",
+        "R": "minecraft:sunflower"
     },
     "result": {
         "id": "minecraft:spore_blossom"

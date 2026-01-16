@@ -6,12 +6,8 @@
         "#_#"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:gold_ingot"
-        },
-        "_": {
-            "item": "minecraft:saddle"
-        }
+        "#": "minecraft:gold_ingot",
+        "_": "minecraft:saddle"
     },
     "result": {
         "id": "minecraft:golden_horse_armor"

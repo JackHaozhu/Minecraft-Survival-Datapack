@@ -10,18 +10,10 @@
         "RSR"
     ],
     "key": {
-        "I": {
-            "item": "minecraft:kelp"
-        },
-        "P": {
-            "item": "minecraft:prismarine_shard"
-        },
-        "S": {
-            "item": "minecraft:sand"
-        },
-        "R": {
-            "item": "minecraft:slime_ball"
-        }
+        "I": "minecraft:kelp",
+        "P": "minecraft:prismarine_shard",
+        "S": "minecraft:sand",
+        "R": "minecraft:slime_ball"
     },
     "group": "sponge"
 }

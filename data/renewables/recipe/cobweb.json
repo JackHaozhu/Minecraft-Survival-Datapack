@@ -10,8 +10,6 @@
         "GGG"
     ],
     "key": {
-        "G": {
-            "item": "minecraft:string"
-        }
+        "G": "minecraft:string"
     }
 }

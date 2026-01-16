@@ -6,12 +6,8 @@
         "XXX"
     ],
     "key": {
-        "X": {
-            "item": "minecraft:rabbit_hide"
-        },
-        "K": {
-            "item": "minecraft:string"
-        }
+        "X": "minecraft:rabbit_hide",
+        "K": "minecraft:string"
     },
     "result": {
         "id": "minecraft:bundle"
